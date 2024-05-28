@@ -12,3 +12,4 @@ echo .gitignore --> To create a git ignore file using vs code terminal in window
 git fetch origin --> To fetch all the data present in the git repository.
 git merge origin/(BranchName) --> To merge the changed made on other branch with your branch
 git clone (SSH clone link) --> To clone the repository in the local machine.
+git pull --> To pull all the changes pushed on repository
