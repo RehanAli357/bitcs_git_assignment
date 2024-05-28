@@ -8,3 +8,5 @@ git checkout BranchName --> To work on the newly created branch and start workin
 git merge BranchName --> To merge the new branch with the current branch.
 touch .gitignore --> To create a git ignore File using Git Bash 
 echo .gitignore --> To create a git ignore file using vs code terminal in windows OS
+git fetch origin --> To fetch all the data present in the git repository.
+git merge origin/(BranchName) --> To merge the changed made on other branch with your branch
