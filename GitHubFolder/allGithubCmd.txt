@@ -13,3 +13,6 @@ git fetch origin --> To fetch all the data present in the git repository.
 git merge origin/(BranchName) --> To merge the changed made on other branch with your branch
 git clone (SSH clone link) --> To clone the repository in the local machine.
 git pull --> To pull all the changes pushed on repository
+git clean -n --> To remove the untracked file from the repository tree also tells the file name to be removed.
+rm (FileName) --> To remove the specific file which has been showed by git clean -n
+git clean -f --> to remove the untracked file forcefully.
