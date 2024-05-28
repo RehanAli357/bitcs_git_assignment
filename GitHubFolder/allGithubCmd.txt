@@ -6,3 +6,5 @@ git commit -m "General Message to Add" --> To add the changes in the git reposit
 git branch BranchName --> To create a new branch in the git.
 git checkout BranchName --> To work on the newly created branch and start working with the branch
 git merge BranchName --> To merge the new branch with the current branch.
+touch .gitignore --> To create a git ignore File using Git Bash 
+echo .gitignore --> To create a git ignore file using vs code terminal in windows OS
