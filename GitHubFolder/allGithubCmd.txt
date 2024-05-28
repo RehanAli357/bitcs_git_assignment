@@ -3,3 +3,5 @@ git status --> To check, that git is tracking the file & folder.
 git add . --> To add all the files and folder from local repository to github staging area to keep a track by git.
 git add fileName.ext --> To add specific file from local repository to github statging area to keep a track by git.
 git commit -m "General Message to Add" --> To add the changes in the git repository.
+git branch BranchName --> To create a new branch in the git.
+git checkout BranchName --> To work on the newly created branch and start working with the branch
