@@ -16,3 +16,5 @@ git pull --> To pull all the changes pushed on repository
 git clean -n --> To remove the untracked file from the repository tree also tells the file name to be removed.
 rm (FileName) --> To remove the specific file which has been showed by git clean -n
 git clean -f --> to remove the untracked file forcefully.
+git diff --> To compare the local file with the staging area file
+git diff --staged --> To compare the file with the previous commit file.
